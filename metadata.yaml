@@ -1,0 +1,29 @@
+_repo: The-Bullitt-Mission-to-Russia--13-Testimony-before-the-Committee-on-Foreign-Relations-United-__10713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bullitt, William C. (William Christian)
+    alias: Bullitt, William Christian
+    birthdate: 1891
+    deathdate: 1967
+    gutenberg_agent_id: '4822'
+    url: http://www.gutenberg.org/2009/agents/4822
+    wikipedia: http://en.wikipedia.org/wiki/William_Bullitt
+description: ''
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soviet Union -- Foreign relations -- United States'
+- !lcc 'D'
+- !lcsh 'United States -- Foreign relations -- Soviet Union'
+- !lcsh 'Paris Peace Conference (1919-1920). Russia'
+- GITenberg
+title: "The Bullitt Mission to Russia\r\nTestimony before the Committee on Foreign\
+  \ Relations, United States Senate, of William C. Bullitt"
+url: http://www.gutenberg.org/ebooks/10713
