@@ -1,5 +1,8 @@
 _repo: The-Bullitt-Mission-to-Russia--13-Testimony-before-the-Committee-on-Foreign-Relations-United-__10713
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bullitt, William C. (William Christian)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4822
     wikipedia: http://en.wikipedia.org/wiki/William_Bullitt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10713#The-Bullitt-Mission-to-Russia--13-Testimony-before-the-Committee-on-Foreign-Relations-United-_
 gutenberg_issued: '2004-08-02'
 gutenberg_type: Text
 identifiers:
